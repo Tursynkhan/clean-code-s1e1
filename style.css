@@ -27,7 +27,7 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.todo__button--add,
+.todo__input--add,
 .todo__input--edit,
 .todo__task-label {
   width: 56%;
